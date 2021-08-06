@@ -6,7 +6,7 @@ The component image contain items used for this project and DCmotors+driver illu
 
 This project could be used for robots, or any simple project with 2 motors.
 
-The code designed to control the direction and speed of the motor in 2 ways. When switch or button pressed it change the speed and direction of the motors. The switch control the speed and the button control the direction.
+The code designed to control the direction and speed of the motor in 2 ways. When pressed switchs it change the speed and direction of the motors.
 
 To visit the project https://www.tinkercad.com/things/2X7ZNQiXji8-dcmotorsdriver
 
